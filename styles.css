@@ -71,7 +71,7 @@ nav {
   text-decoration: underline;
 }
 
-.buttons {
+.toggleButtons {
   display: none;
 }
 
@@ -91,7 +91,7 @@ i {
   cursor: pointer;
 }
 
-/* media query */
+/* media queries */
 
 /* media query for screen size less than 1000px */
 
@@ -135,7 +135,7 @@ i {
   .navLinks li a {
     color: var(--secondary-text-color);
   }
-  .buttons {
+  .toggleButtons {
     display: flex;
   }
 
